@@ -40,14 +40,14 @@
 <br />
 <h2 align="center"> My GitHub Stats 📈 </h2>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=OptimalLearner&label=GitHub%20Profile%20Views&color=FAC151&style=flat" alt="Optimal-Learner-GitHub-Views Unavailable" /> 
+  <img src="https://komarev.com/ghpvc/?username=OptimalLearner&label=GitHub%20Profile%20Views&color=1e90ff&style=flat" alt="Optimal-Learner-GitHub-Views Unavailable" /> 
 </div>
 <p align="center" width="100%">
   <span>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=OptimalLearner&show_icons=true&count_private=true&theme=gruvbox&border_radius=5" alt="OptimalLearner's GitHub Stats Unavailable" />
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OptimalLearner&layout=compact&langs_count=4&theme=gruvbox&border_radius=5" alt="OptimalLearner's Most Used Languages Unavailable" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=OptimalLearner&show_icons=true&count_private=true&theme=github_dark&border_radius=5" alt="OptimalLearner's GitHub Stats Unavailable" />
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OptimalLearner&layout=compact&langs_count=4&theme=github_dark&border_radius=5" alt="OptimalLearner's Most Used Languages Unavailable" />
   </span>
 </p>
 <p align="center">
-  <img height="265em" src="https://activity-graph.herokuapp.com/graph?username=OptimalLearner&bg_color=282828&color=ffffff&line=8ec07c&point=8ec07c&area=true&hide_border=true" />
+  <img height="265em" src="https://activity-graph.herokuapp.com/graph?username=OptimalLearner&bg_color=252525&color=1e90ff&line=1e90ff&point=bcd2e8&area=true&hide_border=true" />
 </p>
