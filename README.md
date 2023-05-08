@@ -1,12 +1,7 @@
 <img align="center" src="Banner.svg" alt="OptimalLearner ReadMe Banner Unavailable" width="100%" />
 
-- Final Year Computer Engineering Student @ Sardar Patel Institute of Technology.
-- Checkout my [**Portfolio**](https://optimallearner.github.io/) Website.
-- Currently Learning About Web3 and Blockchain.
-- Worked with Python, C, C++, Web Technologies, MERN Stack, Flask, MySQL, Figma, Inkscape and Git/GitHub.
-- You can find many of my projects [**here**](https://github.com/OptimalLearner) on GitHub.
-- Looking for any opportunities to learn and explore new things.
-- Let's collaborate on any **Web3** projects.
+<h1 align="center"> Welcome to my GitHub profile </h1>
+I'm a final year student pursuing a Bachelors's in Computer Engineering. I have a strong passion for programming and am constantly striving to improve my skills and knowledge. I'm skilled at building efficient web applications that provide a seamless user experience. I love to explore new technologies and am currently learning about Web3 and UI/UX. I am looking to collaborate on open-source projects that will help me brush up on my skills.
 
 <h2 align="center"> You Can Find Me Here 👨‍💻 </h2>
 <div align="center">
