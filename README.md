@@ -40,12 +40,18 @@ I'm a final year student pursuing a Bachelors's in Computer Engineering. I have 
 </div>
 <br />
 <h1 align="center"> GitHub Statistics </h1>
-<div align="center" width="100%">
-  <span>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=OptimalLearner&show_icons=true&count_private=true&theme=midnight-purple&border_radius=5&hide_border=true" alt="OptimalLearner's GitHub Stats Unavailable" />
-    <img height="150em" src="https://streak-stats.demolab.com?user=OptimalLearner&theme=midnight-purple&hide_border=true&border_radius=5" alt="OptimalLearner's Streak Stats" />
-  </span>
-</div>
-<div align="center">
-  <img height="265em" src="https://github-readme-activity-graph.cyclic.app/graph?username=OptimalLearner&bg_color=000000&color=7f3ace&line=5A1FD6DD&point=7f3ace&area=true&area_color=5A1FD6CC&hide_border=true&radius=5)](https://github.com/ashutosh00710/github-readme-activity-graph" alt="OptimalLearner's GitHub Activity Graph Unavailable" />
-</div>
+<table align="center" width="90%">
+  <tr>
+    <td>
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=OptimalLearner&show_icons=true&count_private=true&theme=midnight-purple&border_radius=5&hide_border=true" alt="OptimalLearner's GitHub Stats Unavailable" />
+    </td>
+    <td>
+      <img width="100%" src="https://streak-stats.demolab.com?user=OptimalLearner&theme=midnight-purple&hide_border=true&border_radius=5" alt="OptimalLearner's Streak Stats" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=OptimalLearner&bg_color=000000&color=7f3ace&line=5A1FD6DD&point=7f3ace&area=true&area_color=5A1FD6CC&hide_border=true&radius=5)" alt="OptimalLearner's GitHub Activity Graph Unavailable" />
+    </td>
+  </tr>
+</table>
