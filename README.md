@@ -39,16 +39,13 @@ I'm a final year student pursuing a Bachelors's in Computer Engineering. I have 
   <img src="https://img.shields.io/badge/Inkscape-0d1117?style=for-the-badge&logo=Inkscape&logoColor=white" alt="Inkscape" style="margin-bottom: 5px;" />
 </div>
 <br />
-<h2 align="center"> My GitHub Stats 📈 </h2>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=OptimalLearner&label=GitHub%20Profile%20Views&color=1e90ff&style=flat" alt="Optimal Learner GitHub Views Unavailable" /> 
-</div>
-<p align="center" width="100%">
+<h1 align="center"> GitHub Statistics </h1>
+<div align="center" width="100%">
   <span>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=OptimalLearner&show_icons=true&count_private=true&theme=github_dark&border_radius=5&hide_border=true" alt="OptimalLearner's GitHub Stats Unavailable" />
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OptimalLearner&layout=compact&langs_count=4&theme=github_dark&border_radius=5&hide_border=true" alt="OptimalLearner's Most Used Languages Unavailable" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=OptimalLearner&show_icons=true&count_private=true&theme=midnight-purple&border_radius=5&hide_border=true" alt="OptimalLearner's GitHub Stats Unavailable" />
+    <img height="150em" src="https://streak-stats.demolab.com?user=OptimalLearner&theme=midnight-purple&hide_border=true&border_radius=5" alt="OptimalLearner's Streak Stats" />
   </span>
-</p>
-<p align="center">
-  <img height="265em" src="https://activity-graph.herokuapp.com/graph?username=OptimalLearner&bg_color=0d1117&color=1e90ff&line=1e90ff&point=bcd2e8&area=true&area_color=1e90ff55&radius=5&hide_border=true" />
-</p>
+</div>
+<div align="center">
+  <img height="265em" src="https://github-readme-activity-graph.cyclic.app/graph?username=OptimalLearner&bg_color=000000&color=7f3ace&line=5A1FD6DD&point=7f3ace&area=true&area_color=5A1FD6CC&hide_border=true&radius=5)](https://github.com/ashutosh00710/github-readme-activity-graph" alt="OptimalLearner's GitHub Activity Graph Unavailable" />
+</div>
