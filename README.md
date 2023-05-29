@@ -65,7 +65,7 @@
   </tr>
   <tr>
     <td colspan="2">
-      <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=OptimalLearner&bg_color=000000&color=7f3ace&line=5A1FD6DD&point=7f3ace&area=true&area_color=5A1FD6CC&hide_border=true&radius=5)" alt="OptimalLearner's GitHub Activity Graph Unavailable" />
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=OptimalLearner&bg_color=000000&color=7f3ace&line=5A1FD6DD&point=7f3ace&area=true&area_color=5A1FD6CC&hide_border=true&radius=5" alt="OptimalLearner's GitHub Activity Graph Unavailable" />
     </td>
   </tr>
 </table>
